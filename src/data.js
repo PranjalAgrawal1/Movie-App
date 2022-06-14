@@ -1,5 +1,5 @@
 // API KEY : 3ca5df7
-const data = [
+export const data = [
   {
     Title: 'The Avengers',
     Year: '2012',
@@ -511,6 +511,3 @@ const data = [
     Response: 'True'
   }
 ];
-
-
-export default data;
